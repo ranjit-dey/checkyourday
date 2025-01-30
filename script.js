@@ -72,5 +72,5 @@ button.addEventListener('click', () => {
     setTimeout(() => {
         resultBox.style.display = 'none'
         window.location.reload(true);
-    }, 8000);
+    }, 4000);
 })
